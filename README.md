@@ -7,3 +7,5 @@ git demo for QArise assignment
 # 1st demo - git add
 
 # 2nd demo - git rebase
+
+#3rd try - rebase from main
