@@ -5,3 +5,5 @@ git demo for QArise assignment
 #Add branch feature
 
 # 1st demo - git add
+
+# 2nd demo - git rebase
