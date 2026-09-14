@@ -1,4 +1,5 @@
 # QArise-git-demo
+
 # main change
 
 # Edit on main branch
@@ -9,3 +10,6 @@
 # 2nd demo - git rebase
 
 #3rd try - rebase from main
+
+็# Hello Git
+
